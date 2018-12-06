@@ -8,5 +8,12 @@ namespace Modele
 {
     public class Class1
     {
+            //bonjour je suis une ligne de test
+
+        
+
+
+
+
     }
 }
